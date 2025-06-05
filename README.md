@@ -5,6 +5,6 @@ Support and Resistance will issue alerts when price closes either above a resist
 
 ![Support and Resistance is good at finding local support and resistance levels on any timeframe](https://github.com/EarnForex/Support-and-Resistance/blob/main/README_Images/support-and-resistance-using-fractals.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Support-and-Resistance/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Support-and-Resistance/
 
 Any contributions to the code are welcome!
